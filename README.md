@@ -1,172 +1,54 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tentang Safika 💫</title>
+# 💫 Halo, Aku Safikha Nur Hikmah!
 
-  <style>
-    /* 🎨 STYLE DASAR */
-    body {
-      font-family: 'Poppins', sans-serif;
-      background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
-      color: #333;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      flex-direction: column;
-      overflow-x: hidden;
-    }
+Hai semuanya! 👋  
+Aku **Safikha Nur Hikmah**, biasa dipanggil **Safika** atau **Fika**.  
+Aku siswi kelas **11** jurusan **RPL (Rekayasa Perangkat Lunak)**.
 
-    h1 {
-      font-size: 2.5rem;
-      color: #2b2d42;
-      animation: fadeInDown 1s ease forwards;
-    }
+---
 
-    h2 {
-      color: #1a759f;
-      margin-bottom: 0.5em;
-    }
+## 🌱 Tentang Saya
+💻 Saat ini sedang belajar dan mendalami dunia **pemrograman** serta **pengembangan perangkat lunak**.  
+🎧 Hobi saya: **mendengarkan musik**, **menonton film**, dan kadang **memanjat pohon** 🌳 (serius, seru banget!).  
+✨ Suka mencoba hal-hal baru, terutama yang berhubungan dengan teknologi.
 
-    p {
-      line-height: 1.6;
-    }
+---
 
-    /* 📦 CONTAINER */
-    .card {
-      background: #fff;
-      padding: 30px 40px;
-      border-radius: 15px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-      width: 80%;
-      max-width: 700px;
-      animation: slideUp 1.2s ease;
-    }
+## 🚀 Tujuan Saya
+Saya ingin menjadi seorang **programmer handal** yang bisa membuat aplikasi bermanfaat untuk banyak orang!
 
-    ul {
-      list-style: none;
-      padding: 0;
-    }
+> “Setiap baris kode adalah langkah kecil menuju mimpi besar.” ✨
 
-    ul li::before {
-      content: "🌸 ";
-    }
+---
 
-    /* 🌈 ANIMASI */
-    @keyframes fadeInDown {
-      0% { opacity: 0; transform: translateY(-30px); }
-      100% { opacity: 1; transform: translateY(0); }
-    }
+## 📫 Kontak Saya
+[![Instagram Badge](https://img.shields.io/badge/-@usernamekamu-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/usernamekamu)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yourname@email.com)
 
-    @keyframes slideUp {
-      0% { opacity: 0; transform: translateY(50px); }
-      100% { opacity: 1; transform: translateY(0); }
-    }
+---
 
-    /* 🔗 LINK */
-    a {
-      color: #1a759f;
-      text-decoration: none;
-      font-weight: 600;
-      transition: 0.3s;
-    }
+## 🧠 Bahasa dan Alat yang Saya Gunakan:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    a:hover {
-      color: #457b9d;
-      text-decoration: underline;
-    }
+---
 
-    /* ✨ QUOTE */
-    blockquote {
-      margin-top: 20px;
-      font-style: italic;
-      color: #555;
-      border-left: 4px solid #1a759f;
-      padding-left: 10px;
-      animation: fadeInDown 1.5s ease;
-    }
+## 📊 Statistik GitHub
+![Safika's GitHub stats](https://github-readme-stats.vercel.app/api?username=usernamekamu&show_icons=true&theme=tokyonight)
 
-    /* 💫 EFEK TEKS BERGERAK */
-    .typewriter {
-      overflow: hidden;
-      border-right: .15em solid #1a759f;
-      white-space: nowrap;
-      animation: typing 3.5s steps(30, end), blink-caret .75s step-end infinite;
-      font-size: 1.2rem;
-      margin-bottom: 20px;
-    }
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usernamekamu&layout=compact&theme=tokyonight)
 
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
+---
 
-    @keyframes blink-caret {
-      from, to { border-color: transparent }
-      50% { border-color: #1a759f; }
-    }
-  </style>
-</head>
-<body>
+## 🎵 Fun Fact
+Kadang aku koding sambil dengerin musik dan minum teh hangat 🍵  
+Biar ide-ide segar terus muncul! 😆
 
-  <div class="card">
-    <h1>💫 Halo, Aku Safikha Nur Hikmah!</h1>
-    <p class="typewriter">Biasa dipanggil Safika atau Fika 👋</p>
+---
 
-    <h2>🌱 Tentang Saya</h2>
-    <ul>
-      <li>💻 Siswi kelas 11 jurusan RPL (Rekayasa Perangkat Lunak)</li>
-      <li>🎧 Hobi: mendengarkan musik, menonton film, dan memanjat pohon 🌳</li>
-      <li>✨ Suka mencoba hal baru, terutama yang berhubungan dengan teknologi</li>
-    </ul>
-
-    <h2>📫 Kontak</h2>
-    <p>
-      💬 Instagram: <a href="https://instagram.com/usernamekamu" target="_blank">@usernamekamu</a><br>
-      📧 Email: <a href="mailto:yourname@email.com">yourname@email.com</a>
-    </p>
-
-    <h2>🚀 Tujuan Saya</h2>
-    <p>Saya ingin menjadi seorang <strong>programmer handal</strong> dan membuat aplikasi yang bermanfaat bagi banyak orang!</p>
-
-    <blockquote>“Setiap baris kode adalah langkah kecil menuju mimpi besar.” ✨</blockquote>
-  </div>
-
-  <script>
-    // 🎉 Animasi tambahan: bintang jatuh di background
-    const createStar = () => {
-      const star = document.createElement('div');
-      star.classList.add('star');
-      star.style.left = Math.random() * 100 + 'vw';
-      star.style.animationDuration = Math.random() * 2 + 3 + 's';
-      document.body.append(star);
-
-      setTimeout(() => star.remove(), 5000);
-    }
-
-    setInterval(createStar, 300);
-
-    const style = document.createElement('style');
-    style.innerHTML = `
-      .star {
-        position: fixed;
-        top: 0;
-        width: 2px;
-        height: 10px;
-        background: white;
-        opacity: 0.8;
-        animation: fall linear forwards;
-      }
-      @keyframes fall {
-        to { transform: translateY(100vh); opacity: 0; }
-      }
-    `;
-    document.head.appendChild(style);
-  </script>
-
-</body>
-</html>
+### Terima kasih sudah mampir! 💖
+![Visitor Count](https://komarev.com/ghpvc/?username=usernamekamu&label=Pengunjung&color=blue&style=flat)
